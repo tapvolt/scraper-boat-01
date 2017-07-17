@@ -61,5 +61,5 @@ typings/
 
 output.xlsx
 ~$output.xlsx
-.idea
+.idea/
 bin
